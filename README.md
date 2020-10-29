@@ -76,7 +76,7 @@ IEEE Open Access'te yayınlamak amacıyla yazılmakta olan makalemiz:
 
     @ARTICLE{8768370,
     author={H. {Menhour}, R. N. {Sarikaya}, M. {Aktaş},  R. {Sağlam},  H. B. {Şahin},  E. {Ekinci} and S. {Eken}},
-    journal={IEEE Access},
+    journal={},
     title={Searchable Turkish OCRed Historical Newspaper Collection 1928–1942},
     year={},
     month={},
